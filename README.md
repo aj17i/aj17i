@@ -1,7 +1,7 @@
 ## Hi there I'm Ahmad but you can call me Aj 👋
 
-<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=aj17i&show_icons=true&theme=tokyonight" />
-<img align = "left" width  = 47% src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aj17i&layout=compact" />
+<img  src = "https://github-readme-stats.vercel.app/api?username=aj17i&show_icons=true&theme=tokyonight" />
+<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aj17i&layout=compact" />
 
 <img   src = "https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 <img  src = "https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />

@@ -1,9 +1,9 @@
 <!-- Banner / Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hey%20there,%20I'm%20Aj%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hey%20there,%20I'm%20Ahmad%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <!-- Quick Bio -->
 ## 💡 About Me
-Hey! I'm **Ahmad**, but everyone calls me **Aj**.  
+Hey! I'm **Ahmad**.  
 I'm a software engineer who loves crafting mobile apps, experimenting with new tech stacks, and turning coffee into code.  
 Currently building cool things with **Angular-Ionic**, **.NET MAUI**, and **React Native**.  
 

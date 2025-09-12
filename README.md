@@ -16,13 +16,13 @@ Currently building cool things with **Angular-Ionic**, **.NET MAUI**, and **Reac
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aj17i&show_icons=true&theme=tokyonight" height="180"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=aj17i&show_icons=true&theme=tokyonight" height="180"/>-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aj17i&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj17i&layout=compact&theme=tokyonight" height="150"/>
-</p>
+</p>-->
 
 ---
 

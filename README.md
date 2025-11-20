@@ -73,7 +73,7 @@ Lebanese International University
 # 🧰 **Technical Arsenal**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,native,angular,ts,js,flutter,dart,go,html,css,php,git,github,androidstudio,visualstudio,vscode,postman,mysql,sqlite,docker&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,native,angular,ts,js,flutter,dart,go,html,css,php,git,github,androidstudio,visualstudio,vscode,postman,&perline=10" />
 </p>
 
 ---
@@ -98,16 +98,6 @@ Lebanese International University
 ## 👨‍🏫 **Mentorship Initiative**
 - Trained two interns from zero to shipping full apps  
 - Recognized for leadership  
-
----
-
-# 📊 **GitHub Activity**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aj17i&theme=tokyonight&hide_border=true&background=00000000" height="180" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj17i&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" height="150"/>
-</div>
 
 ---
 

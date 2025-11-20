@@ -1,6 +1,6 @@
 # 🌌 **Ahmad Jarouche — Mobile Engineer | .NET Specialist | App Migration Expert**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=200&section=header&text=Ahmad%20Youssef%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=200&section=header&text=Ahmad%20Jarocuhe%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&width=650&color=6a11cb&lines=Mobile+Developer+%7C+.NET+MAUI+%7C+React+Native;App+Migration+Specialist;Full-Stack+Builder+%7C+API+Architect;Debugging+Addict+with+UI+Finesse+💅" />

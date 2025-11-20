@@ -1,64 +1,136 @@
-<!-- Banner / Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hey%20there,%20I'm%20Ahmad%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+# 🌌 **Ahmad Youssef — Mobile Engineer | .NET Specialist | App Migration Expert**
 
-<!-- Quick Bio -->
-## 💡 About Me
-Hey! I'm **Ahmad**.  
-I'm a software engineer who loves crafting mobile apps, experimenting with new tech stacks, and turning coffee into code.  
-Currently building cool things with **Angular-Ionic**, **.NET MAUI**, and **React Native**.  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=200&section=header&text=Ahmad%20Youssef%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-📍 Based in: *Lebanon*  
-🎯 Focused on: *Mobile Development & APIs*  
-⚡ Fun fact: *I debug in dark mode because light mode blinds my productivity.*
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=650&color=6a11cb&lines=Mobile+Developer+%7C+.NET+MAUI+%7C+React+Native;App+Migration+Specialist;Full-Stack+Builder+%7C+API+Architect;Debugging+Addict+with+UI+Finesse+💅" />
+</div>
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats & Activity
+## 👨‍💻 **About Me**
+I’m **Ahmad**, a **Computer Science graduate** and **versatile mobile engineer** with real-world experience building, migrating, and shipping production-grade apps across Android & iOS.
+
+I specialize in:
+
+- **Xamarin → .NET MAUI migrations**  
+- **Cross-platform mobile apps**  
+- **Backend APIs with .NET**  
+- **React Native full-featured UIs**  
+- **Debugging code like it's personal**
+
+---
+
+# 🧪 **Professional Experience**
+
+## 🟣 **Software Developer — Scrumium**  
+**Oct 2024 — Present**
+
+📱 **Mobile Engineering**
+- Built & maintained a **cross-platform telehealth app** using Xamarin.Forms.  
+- **Migrated** the entire app to **.NET MAUI**, reducing complexity & boosting maintainability.  
+
+🖥 **Backend & API Work**
+- Built secure APIs using **ASP.NET Web API** & **MVC**.  
+- Enhanced modularity, performance, and request/response workflows.  
+
+🎨 **Frontend & Web**
+- Delivered new modules using **Angular** & **Ionic**.  
+
+⚙️ **Debugging & Stability**
+- Tracked & fixed production-level issues using advanced logging strategies.  
+
+🚀 **DevOps & Deployment**
+- Managed **Play Store & App Store** submissions.  
+
+🧑‍🏫 **Leadership**
+- Mentored **two interns** to independence in .NET MAUI within 2 months.
+
+---
+
+## 🔵 **Freelance Mobile Developer — 2025**
+- Fully redesigned a **school management mobile app** using React Native.  
+- Built modular features: agenda, calendar, dashboard, news, events, fees.  
+- Optimized performance & delivered final builds for Android & iOS.  
+- Acted as **sole developer** across UI/UX, API integration, testing, and deployment.  
+
+---
+
+## 🛠️ **App Migration Developer — 2025 (Ongoing)**
+- Leading a large-scale **Xamarin.Forms → .NET MAUI** migration.  
+- Refactoring legacy components & improving UX consistency.  
+- Running backend sync, testing & preparing for store release.  
+
+---
+
+# 🎓 **Education**
+**B.S. in Computer Science**  
+Lebanese International University  
+📌 GPA: **3.45**
+
+---
+
+# 🧰 **Technical Arsenal**
+
 <p align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=aj17i&show_icons=true&theme=tokyonight" height="180"/>-->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aj17i&theme=tokyonight" height="180"/>
-</p>
-
-<!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj17i&layout=compact&theme=tokyonight" height="150"/>
-</p>-->
-
----
-
-<!-- Skills Badges -->
-## 🛠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ionic-3880FF.svg?style=for-the-badge&logo=ionic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET-5C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xamarin-3498DB.svg?style=for-the-badge&logo=xamarin&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,native,angular,ts,js,flutter,dart,go,html,css,php,git,github,androidstudio,visualstudio,vscode,postman,mysql,sqlite,docker&perline=10" />
 </p>
 
 ---
 
-<!-- Contact -->
-## 📬 Connect With Me
-<p>
-  <a href="mailto:dev.ahmad.jarouche@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+# 🏗️ **Highlighted Projects**
+
+## 🏥 **Telehealth App (Xamarin → .NET MAUI)**
+- Full cross-platform healthcare solution  
+- Secure API integration  
+- iOS + Android deployment  
+
+## 🎓 **Azhar Al-Bekaa School App (React Native)**
+- End-to-end redesign & development  
+- Live dashboards, agenda, calendar, accounting  
+- Shipped to Android & iOS  
+
+## 🔄 **Legacy App Migration (In Progress)**
+- Full refactor + modernization  
+- Stability & UI/UX enhancement  
+- Preparing for store release  
+
+## 👨‍🏫 **Mentorship Initiative**
+- Trained two interns from zero to shipping full apps  
+- Recognized for leadership  
+
+---
+
+# 📊 **GitHub Activity**
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aj17i&theme=tokyonight&hide_border=true&background=00000000" height="180" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj17i&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" height="150"/>
+</div>
+
+---
+
+# 🧩 **What I Bring to the Table**
+💎 Modern mobile UIs that hit  
+🛠 Clean architecture  
+🚀 Fast delivery  
+📱 Full-cycle development  
+🧠 Legacy system whisperer  
+🔥 Passion for mobile engineering  
+
+---
+
+# 📬 **Reach Me**
+<p align="center">
+  <a href="mailto:dev.ahmad.youssef@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/aj17i">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=140&section=footer" width="100%" />
